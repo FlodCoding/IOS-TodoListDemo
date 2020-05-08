@@ -15,6 +15,18 @@
 		6B62947E2463A589008E9566 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6B62947C2463A589008E9566 /* LaunchScreen.storyboard */; };
 		6B6294892463A58A008E9566 /* TodoListTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6B6294882463A58A008E9566 /* TodoListTests.swift */; };
 		6B6294942463A58A008E9566 /* TodoListUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6B6294932463A58A008E9566 /* TodoListUITests.swift */; };
+		6B6294AA2463B56A008E9566 /* Date.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6B6294A42463B56A008E9566 /* Date.swift */; };
+		6B6294AB2463B56A008E9566 /* Date+Timepiece.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6B6294A52463B56A008E9566 /* Date+Timepiece.swift */; };
+		6B6294AC2463B56A008E9566 /* Int+Timepiece.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6B6294A62463B56A008E9566 /* Int+Timepiece.swift */; };
+		6B6294AD2463B56A008E9566 /* SATextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6B6294A72463B56A008E9566 /* SATextField.swift */; };
+		6B6294AE2463B56A008E9566 /* String+Timepiece.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6B6294A82463B56A008E9566 /* String+Timepiece.swift */; };
+		6B6294AF2463B56A008E9566 /* DateComponents+Timepiece.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6B6294A92463B56A008E9566 /* DateComponents+Timepiece.swift */; };
+		6B6294B12463B641008E9566 /* TodoItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6B6294B02463B641008E9566 /* TodoItem.swift */; };
+		6B6B1F302463C0A100B0C918 /* Home.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6B6B1F2F2463C0A100B0C918 /* Home.swift */; };
+		6B6B1F322463E4D000B0C918 /* TodoItemList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6B6B1F312463E4D000B0C918 /* TodoItemList.swift */; };
+		6BEF3C1B2463FBD800E5C38D /* TodoDetails.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6BEF3C1A2463FBD800E5C38D /* TodoDetails.swift */; };
+		6BFD4982246506BE00705C5F /* TodoItemList2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6BFD4981246506BE00705C5F /* TodoItemList2.swift */; };
+		6BFD49842465086500705C5F /* ScrollViewTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6BFD49832465086500705C5F /* ScrollViewTest.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +61,18 @@
 		6B62948F2463A58A008E9566 /* TodoListUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TodoListUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		6B6294932463A58A008E9566 /* TodoListUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TodoListUITests.swift; sourceTree = "<group>"; };
 		6B6294952463A58A008E9566 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6B6294A42463B56A008E9566 /* Date.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Date.swift; sourceTree = "<group>"; };
+		6B6294A52463B56A008E9566 /* Date+Timepiece.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Date+Timepiece.swift"; sourceTree = "<group>"; };
+		6B6294A62463B56A008E9566 /* Int+Timepiece.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Int+Timepiece.swift"; sourceTree = "<group>"; };
+		6B6294A72463B56A008E9566 /* SATextField.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SATextField.swift; sourceTree = "<group>"; };
+		6B6294A82463B56A008E9566 /* String+Timepiece.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "String+Timepiece.swift"; sourceTree = "<group>"; };
+		6B6294A92463B56A008E9566 /* DateComponents+Timepiece.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "DateComponents+Timepiece.swift"; sourceTree = "<group>"; };
+		6B6294B02463B641008E9566 /* TodoItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TodoItem.swift; sourceTree = "<group>"; };
+		6B6B1F2F2463C0A100B0C918 /* Home.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Home.swift; sourceTree = "<group>"; };
+		6B6B1F312463E4D000B0C918 /* TodoItemList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TodoItemList.swift; sourceTree = "<group>"; };
+		6BEF3C1A2463FBD800E5C38D /* TodoDetails.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TodoDetails.swift; sourceTree = "<group>"; };
+		6BFD4981246506BE00705C5F /* TodoItemList2.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TodoItemList2.swift; sourceTree = "<group>"; };
+		6BFD49832465086500705C5F /* ScrollViewTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollViewTest.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,13 +123,20 @@
 		6B6294702463A585008E9566 /* TodoList */ = {
 			isa = PBXGroup;
 			children = (
+				6B6294A32463B56A008E9566 /* Third-Parties */,
 				6B6294712463A585008E9566 /* AppDelegate.swift */,
 				6B6294732463A585008E9566 /* SceneDelegate.swift */,
 				6B6294752463A585008E9566 /* ContentView.swift */,
 				6B6294772463A589008E9566 /* Assets.xcassets */,
+				6B6294B02463B641008E9566 /* TodoItem.swift */,
 				6B62947C2463A589008E9566 /* LaunchScreen.storyboard */,
 				6B62947F2463A589008E9566 /* Info.plist */,
 				6B6294792463A589008E9566 /* Preview Content */,
+				6B6B1F2F2463C0A100B0C918 /* Home.swift */,
+				6BEF3C1A2463FBD800E5C38D /* TodoDetails.swift */,
+				6BFD49832465086500705C5F /* ScrollViewTest.swift */,
+				6B6B1F312463E4D000B0C918 /* TodoItemList.swift */,
+				6BFD4981246506BE00705C5F /* TodoItemList2.swift */,
 			);
 			path = TodoList;
 			sourceTree = "<group>";
@@ -134,6 +165,19 @@
 				6B6294952463A58A008E9566 /* Info.plist */,
 			);
 			path = TodoListUITests;
+			sourceTree = "<group>";
+		};
+		6B6294A32463B56A008E9566 /* Third-Parties */ = {
+			isa = PBXGroup;
+			children = (
+				6B6294A42463B56A008E9566 /* Date.swift */,
+				6B6294A52463B56A008E9566 /* Date+Timepiece.swift */,
+				6B6294A62463B56A008E9566 /* Int+Timepiece.swift */,
+				6B6294A72463B56A008E9566 /* SATextField.swift */,
+				6B6294A82463B56A008E9566 /* String+Timepiece.swift */,
+				6B6294A92463B56A008E9566 /* DateComponents+Timepiece.swift */,
+			);
+			path = "Third-Parties";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -267,9 +311,21 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6B6294B12463B641008E9566 /* TodoItem.swift in Sources */,
+				6BEF3C1B2463FBD800E5C38D /* TodoDetails.swift in Sources */,
+				6B6294AE2463B56A008E9566 /* String+Timepiece.swift in Sources */,
+				6B6294AB2463B56A008E9566 /* Date+Timepiece.swift in Sources */,
+				6B6B1F322463E4D000B0C918 /* TodoItemList.swift in Sources */,
+				6B6B1F302463C0A100B0C918 /* Home.swift in Sources */,
 				6B6294722463A585008E9566 /* AppDelegate.swift in Sources */,
 				6B6294742463A585008E9566 /* SceneDelegate.swift in Sources */,
+				6BFD49842465086500705C5F /* ScrollViewTest.swift in Sources */,
 				6B6294762463A585008E9566 /* ContentView.swift in Sources */,
+				6B6294AF2463B56A008E9566 /* DateComponents+Timepiece.swift in Sources */,
+				6B6294AD2463B56A008E9566 /* SATextField.swift in Sources */,
+				6B6294AA2463B56A008E9566 /* Date.swift in Sources */,
+				6B6294AC2463B56A008E9566 /* Int+Timepiece.swift in Sources */,
+				6BFD4982246506BE00705C5F /* TodoItemList2.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
